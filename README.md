@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiscarlosmedina
-- 👀 I’m developer front-end
-- 🌱 I’m studing in alura 
+- 👀 I’m BackEnd developer 
+- 🌱 I’m Software Engineer
 - 📫 contact with my luiscarlosmedina481@gmail.com
 
 <!---
